@@ -9,8 +9,8 @@
 - The metric we'll use is called "mutual information". Mutual information is a lot like correlation in that it measures a relationship between two quantities. The advantage of mutual information is that it can detect any kind of relationship, while correlation only detects linear relationships.
 - Mutual information is a great general-purpose metric and especially useful at the start of feature development when you might not know what model you'd like to use yet. It is:
 
--easy to use and interpret,
--computationally efficient,
--theoretically well-founded,
--resistant to overfitting, and,
--able to detect any kind of relationship
+- easy to use and interpret,
+- computationally efficient,
+- theoretically well-founded,
+- resistant to overfitting, and,
+- able to detect any kind of relationship
