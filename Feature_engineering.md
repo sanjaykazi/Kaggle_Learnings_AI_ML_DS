@@ -14,3 +14,7 @@
 - theoretically well-founded,
 - resistant to overfitting, and,
 - able to detect any kind of relationship
+
+## Mutual Information and What it Measures
+- Mutual information describes relationships in terms of uncertainty. The mutual information (MI) between two quantities is a measure of the extent to which knowledge of one quantity reduces uncertainty about the other. 
+- 
